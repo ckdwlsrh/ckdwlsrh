@@ -9,6 +9,8 @@
   <img src ="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&logoColor=white">
   <img src ="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&style=flat-square&logoColor=white">
   <img src ="https://img.shields.io/badge/RaspberryPi-A22846?logo=RaspberryPi&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/AmazonAws-232F3E?logo=AmazonAws&style=flat-square&logoColor=white">
 </p>
 
 
@@ -17,6 +19,9 @@
 <p align="left">
   <img src ="https://img.shields.io/badge/C-A8B9CC?logo=C&style=flat-square&logoColor=white">
   <img src ="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/MYSQL-4479A1?logo=MYSQL&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=AndroidStudio&style=flat-square&logoColor=white">
 </p>
 
 ### 📫 how to reach me?

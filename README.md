@@ -1,17 +1,17 @@
 
 
 
-# Hi there 👋
+### Hi there 👋
 
-## 🌱 i’m currently learning ...
+ - 🌱 i’m currently learning ...
 
-## 🦾 Skills
+ - 🦾 Skills
 
 <p align="left">
   <img src ="https://img.shields.io/badge/C-A8B9CC?logo=C&style=flat-square&logoColor=white">
 </p>
 
-## 📫 how to reach me: ...
+ - 📫 how to reach me: ...
 
 <p align="left"><img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white">
 <a href="https://linkedin.com/in/changjin-ko-920058217"><img src ="https://img.shields.io/badge/CHANGJINKO-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>

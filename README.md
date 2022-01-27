@@ -1,4 +1,4 @@
-https://img.shields.io/badge/ckdwls6504@gmail.com-#EA4335?logo=gmail
+<img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-#EA4335?logo=Gmail">
 
 ### Hi there 👋
 

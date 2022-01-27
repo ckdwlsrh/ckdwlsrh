@@ -27,9 +27,10 @@
 
 ### 📫 how to reach me?
 
-<p align="left"><img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white">
-<a href="https://linkedin.com/in/changjin-ko-920058217"><img src ="https://img.shields.io/badge/CHANGJINKO-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-<a href="https://mechacuchangjin.tistory.com/"><img src ="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=&logoColor=white"></a>
+<p align="left">
+  <a href="mailto:ckdwls6504@gmail.com"><img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white"></a>
+  <a href="https://linkedin.com/in/changjin-ko-920058217"><img src ="https://img.shields.io/badge/CHANGJINKO-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://mechacuchangjin.tistory.com/"><img src ="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100015576004973"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a></p>
 <!--
 **ckdwlsrh/ckdwlsrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

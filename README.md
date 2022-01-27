@@ -5,6 +5,13 @@
 
 ### 🌱 i’m currently learning ...
 
+<p align="left">
+  <img src ="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/RaspberryPi-A22846?logo=RaspberryPi&style=flat-square&logoColor=white">
+</p>
+
+
 ### 🦾 Skills
 
 <p align="left">

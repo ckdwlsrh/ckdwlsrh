@@ -14,7 +14,7 @@
 </p>
 
 
-### 🦾 Skills
+### 🦾 skills
 
 <p align="left">
   <img src ="https://img.shields.io/badge/C-A8B9CC?logo=C&style=flat-square&logoColor=white">

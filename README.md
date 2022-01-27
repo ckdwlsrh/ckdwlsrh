@@ -22,6 +22,7 @@
   <img src ="https://img.shields.io/badge/MYSQL-4479A1?logo=MYSQL&style=flat-square&logoColor=white">
   <img src ="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&style=flat-square&logoColor=white">
   <img src ="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=AndroidStudio&style=flat-square&logoColor=white">
+  <img src ="https://img.shields.io/badge/VScode-007ACC?logo=VisualStudioCode&style=flat-square&logoColor=white">
 </p>
 
 ### 📫 how to reach me?

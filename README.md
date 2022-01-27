@@ -6,7 +6,9 @@
 ## 🌱 i’m currently learning ...
 
 ## 🦾 Skills
-
+<p align="left">
+  <img src ="https://img.shields.io/badge/C-A8B9CC?logo=C&style=flat-square&logoColor=white">
+</p>
 ## 📫 how to reach me: ...
 
 <p align="left"><img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white">

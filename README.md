@@ -16,7 +16,8 @@
 </p>
 
 ### Experiences
-- KB IT's Your Life 6기 (2025.03 ~ 2025.08)
+- Computer Engineering, ChangWon National University (2019.03 ~ 2025.02)
+- KB IT's Your Life 6th (2025.03 ~ 2025.08)
 
 ### Awards
 - CWNU 2024 SW 창업경진대회 우수상

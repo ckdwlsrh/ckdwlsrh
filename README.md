@@ -28,3 +28,4 @@
   <a href="mailto:ckdwls6504@gmail.com"><img src ="https://img.shields.io/badge/ckdwls6504@gmail.com-D14836?logo=gmail&style=flat-square&logoColor=white"></a>
   <a href="https://linkedin.com/in/changjin-ko-920058217"><img src ="https://img.shields.io/badge/CHANGJINKO-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a></p>
 
+
